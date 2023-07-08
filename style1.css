@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.btn1{
+    height: 45px;
+    width: 150px;
+    border: none;
+    outline: none;
+    background-color: rgb(248, 26, 92);
+    color: white;
+    font-weight: 700;
+    border-radius: 60px;
+}
+.btn1:hover{
+    background-color: rgb(248, 26, 92);
+    transition: 0.5s;
+}
+  
+/*-----------------------------------------------------------------------------------------------------*/
+
+#product2{
+  background-image: url("image/bgt_shirt1.jpg");
+ background-color: #cccccc;
+
+}
